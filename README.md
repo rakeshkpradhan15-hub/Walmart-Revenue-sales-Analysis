@@ -124,8 +124,8 @@ Rating vs. transaction value correlation: **r ≈ 0.01** — customer satisfacti
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your-username/walmart_endtoend.git
-cd walmart_endtoend
+git clone https://github.com/rakeshkpradhan15-hub/Walmart-Revenue-sales-Analysis.git
+cd Walmart-Revenue-sales-Analysis
 
 # 2. Install dependencies
 pip install pandas numpy seaborn matplotlib sqlalchemy pymysql
